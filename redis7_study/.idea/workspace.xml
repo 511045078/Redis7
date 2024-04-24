@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45193f98-0220-43bd-ab6b-202e0e1662f9" name="Changes" comment="2024/04/24">
+      <change afterPath="$PROJECT_DIR$/../canal_demo02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_generator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis_distributed_lock2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis_distributed_lock3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis_redlock/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "511045078"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3033f8f0-f7ad-4a3f-8e4c-7e56b4799134" />
+        <option name="url" value="https://github.com/511045078/redis7_study.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.9.6" />
+        <option name="failureBehavior" value="FAST" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ewRrM4YYRwUf0Fy0vECLgDn6cX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ReEntryLockDemo.executor": "Run",
+    "Application.RedisCanalClientExample.executor": "Run",
+    "JUnit.All in canal_demo02.executor": "Debug",
+    "JUnit.Redis7Study7777Test.testGuavaWithBloomFilter.executor": "Run",
+    "Maven.mybatis_generator [org.mybatis.generator:mybatis-generator-maven-plugin:1.3.6:generate].executor": "Run",
+    "Maven.mybatis_generator [org.mybatis.generator:mybatis-generator-maven-plugin:1.3.6:help].executor": "Run",
+    "Maven.redis7_study [clean].executor": "Run",
+    "Maven.redis7_study [install].executor": "Run",
+    "Maven.redis_redlock [clean].executor": "Run",
+    "Maven.redis_redlock [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Redis7Study7777 (1).executor": "Run",
+    "Spring Boot.Redis7Study7777.executor": "Run",
+    "Spring Boot.RedisDistributedLockApp7777.executor": "Run",
+    "Spring Boot.RedisDistributedLockApp8888.executor": "Run",
+    "Spring Boot.RedisRedlockApplication.executor": "Run",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/devSoft/IdeaProjects/redis_redlock/src/main/java/com/atguigu/redis/redlock/config",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\devSoft\IdeaProjects\redis_redlock\src\main\java\com\atguigu\redis\redlock\config" />
+      <recent name="D:\devSoft\IdeaProjects\redis_redlock\src\main\resources" />
+      <recent name="D:\devSoft\IdeaProjects\redis_distributed_lock3\src\main\java\com\atguigu\redislock" />
+      <recent name="D:\devSoft\IdeaProjects\redis7_study\src\main\java\com\atguigu\redis7" />
+      <recent name="D:\devSoft\IdeaProjects\redis7_study\src\main\java\com\atguigu\redis7\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.redis7" />
+      <recent name="com.atguigu.redis7.mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Redis7Study7777">
+    <configuration name="ReEntryLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.redislock.test.ReEntryLockDemo" />
+      <module name="redis_distributed_lock2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.redislock.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisCanalClientExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.canal.biz.RedisCanalClientExample" />
+      <module name="canal_demo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.canal.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis7Study7777Test.testGuavaWithBloomFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis7_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.redis7.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.redis7.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.redis7.test.Redis7Study7777Test" />
+      <option name="METHOD_NAME" value="testGuavaWithBloomFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalDemo02App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="canal_demo02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.canal.CanalDemo02App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis7Study7777" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="redis7_study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.redis7.Redis7Study7777" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.redis7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDistributedLockApp7777" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="redis_distributed_lock2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.redislock.RedisDistributedLockApp7777" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDistributedLockApp8888" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="redis_distributed_lock3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.redislock.RedisDistributedLockApp8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisRedlockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="redis_redlock" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.redis.RedisRedlockApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReEntryLockDemo" />
+      <item itemvalue="Application.RedisCanalClientExample" />
+      <item itemvalue="JUnit.Redis7Study7777Test.testGuavaWithBloomFilter" />
+      <item itemvalue="Spring Boot.CanalDemo02App" />
+      <item itemvalue="Spring Boot.RedisDistributedLockApp7777" />
+      <item itemvalue="Spring Boot.RedisDistributedLockApp8888" />
+      <item itemvalue="Spring Boot.RedisRedlockApplication" />
+      <item itemvalue="Spring Boot.Redis7Study7777" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Redis7Study7777" />
+        <item itemvalue="Spring Boot.RedisRedlockApplication" />
+        <item itemvalue="Application.ReEntryLockDemo" />
+        <item itemvalue="JUnit.Redis7Study7777Test.testGuavaWithBloomFilter" />
+        <item itemvalue="Application.RedisCanalClientExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Liu\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45193f98-0220-43bd-ab6b-202e0e1662f9" name="Changes" comment="" />
+      <created>1712813852947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712813852947</updated>
+      <workItem from="1712813854019" duration="3306000" />
+      <workItem from="1712817329528" duration="204000" />
+      <workItem from="1712817542613" duration="4989000" />
+      <workItem from="1712882207174" duration="2469000" />
+      <workItem from="1712900537875" duration="6672000" />
+      <workItem from="1713141617511" duration="8400000" />
+      <workItem from="1713168248209" duration="1021000" />
+      <workItem from="1713169284047" duration="4117000" />
+      <workItem from="1713230638406" duration="11890000" />
+      <workItem from="1713314193371" duration="12965000" />
+      <workItem from="1713400415980" duration="15222000" />
+      <workItem from="1713487007372" duration="15523000" />
+      <workItem from="1713749029461" duration="12131000" />
+      <workItem from="1713777330443" duration="926000" />
+      <workItem from="1713834426857" duration="3075000" />
+      <workItem from="1713919230315" duration="5366000" />
+      <workItem from="1713928122847" duration="5397000" />
+    </task>
+    <task id="LOCAL-00001" summary="2024/04/11">
+      <option name="closed" value="true" />
+      <created>1712815131920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712815131920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2024/04/24">
+      <option name="closed" value="true" />
+      <created>1713938910475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713938910475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024/04/11" />
+    <MESSAGE value="2024/04/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/04/24" />
+  </component>
+</project>
